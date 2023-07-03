@@ -1,0 +1,71 @@
+2023-07-03 09:08:14,298 root INFO This is my info log
+2023-07-03 09:10:39,189 parso.cache DEBUG pickle loaded: C:\Users\Dell\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-07-03 09:10:39,313 parso.cache DEBUG pickle loaded: C:\Users\Dell\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-07-03 09:11:06,398 parso.python.diff DEBUG diff parser start
+2023-07-03 09:11:06,399 parso.python.diff DEBUG line_lengths old: 7; new: 9
+2023-07-03 09:11:06,400 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2023-07-03 09:11:06,400 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-07-03 09:11:06,404 parso.python.diff DEBUG parse_part from 3 to 9 (to 8 in part parser)
+2023-07-03 09:11:06,406 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:9]
+2023-07-03 09:11:06,406 parso.python.diff DEBUG diff parser end
+2023-07-03 09:11:32,625 parso.python.diff DEBUG diff parser start
+2023-07-03 09:11:32,625 parso.python.diff DEBUG line_lengths old: 9; new: 13
+2023-07-03 09:11:32,625 parso.python.diff DEBUG -> code[equal] old[1:8] new[1:8]
+2023-07-03 09:11:32,626 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-07-03 09:11:32,629 parso.python.diff DEBUG parse_part from 3 to 13 (to 12 in part parser)
+2023-07-03 09:11:32,629 parso.python.diff DEBUG -> code[replace] old[9:9] new[9:13]
+2023-07-03 09:11:32,630 parso.python.diff DEBUG diff parser end
+2023-07-03 09:11:44,353 parso.python.diff DEBUG diff parser start
+2023-07-03 09:11:44,353 parso.python.diff DEBUG line_lengths old: 13; new: 1
+2023-07-03 09:11:44,353 parso.python.diff DEBUG -> code[replace] old[1:13] new[1:1]
+2023-07-03 09:11:44,354 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-07-03 09:11:44,354 parso.python.diff DEBUG diff parser end
+2023-07-03 09:11:49,139 parso.python.diff DEBUG diff parser start
+2023-07-03 09:11:49,140 parso.python.diff DEBUG line_lengths old: 1; new: 1
+2023-07-03 09:11:49,141 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+2023-07-03 09:11:49,143 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-07-03 09:11:49,143 parso.python.diff DEBUG diff parser end
+2023-07-03 09:14:29,090 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,090 root INFO This is the value of I am logging 1
+2023-07-03 09:14:29,090 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,091 root INFO This is the value of I am logging 2
+2023-07-03 09:14:29,091 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,091 root INFO This is the value of I am logging 3
+2023-07-03 09:14:29,091 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,092 root INFO This is the value of I am logging 4
+2023-07-03 09:14:29,092 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,092 root INFO This is the value of I am logging [4, 5, 6]
+2023-07-03 09:14:29,092 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,092 root INFO This is the value of I am logging ritesh
+2023-07-03 09:14:29,092 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:14:29,092 root INFO This is the value of I am logging kumar
+2023-07-03 09:17:32,215 parso.python.diff DEBUG diff parser start
+2023-07-03 09:17:32,215 parso.python.diff DEBUG line_lengths old: 1; new: 17
+2023-07-03 09:17:32,215 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:17]
+2023-07-03 09:17:32,218 parso.python.diff DEBUG parse_part from 1 to 17 (to 16 in part parser)
+2023-07-03 09:17:32,218 parso.python.diff DEBUG diff parser end
+2023-07-03 09:17:44,583 parso.python.diff DEBUG diff parser start
+2023-07-03 09:17:44,584 parso.python.diff DEBUG line_lengths old: 17; new: 17
+2023-07-03 09:17:44,585 parso.python.diff DEBUG -> code[equal] old[1:16] new[1:16]
+2023-07-03 09:17:44,586 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-07-03 09:17:44,592 parso.python.diff DEBUG parse_part from 3 to 17 (to 16 in part parser)
+2023-07-03 09:17:44,592 parso.python.diff DEBUG -> code[replace] old[17:17] new[17:17]
+2023-07-03 09:17:44,592 parso.python.diff DEBUG diff parser end
+2023-07-03 09:17:56,805 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,805 root INFO This is the value of I am logging 1
+2023-07-03 09:17:56,806 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,807 root INFO This is the value of I am logging 2
+2023-07-03 09:17:56,807 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,807 root INFO This is the value of I am logging 3
+2023-07-03 09:17:56,807 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,807 root INFO This is the value of I am logging 4
+2023-07-03 09:17:56,807 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,807 root INFO This is the value of I am logging [4, 5, 6]
+2023-07-03 09:17:56,807 root INFO logging my j 4 and i is [4, 5, 6]
+2023-07-03 09:17:56,807 root INFO logging my j 5 and i is [4, 5, 6]
+2023-07-03 09:17:56,808 root INFO logging my j 6 and i is [4, 5, 6]
+2023-07-03 09:17:56,808 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,808 root INFO This is the value of I am logging ritesh
+2023-07-03 09:17:56,808 root INFO This is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'ritesh', 'kumar']
+2023-07-03 09:17:56,808 root INFO This is the value of I am logging kumar
+2023-07-03 09:17:56,808 root INFO This is my final result with all int [1, 2, 3, 4, 4, 5, 6], with all str ['ritesh', 'kumar']
